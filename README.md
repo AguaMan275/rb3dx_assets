@@ -1,6 +1,6 @@
 # Rock Band 3 Deluxe Asset Repository
 
-![Carl Johnson from GTA: San Andreas, Wolfie from Fortnite, Goku Black from Dragon Ball, and Homer Simpson from The Simpsons standing on railroad tracks.](dependencies/customchar.webp)
+![Carl Johnson from GTA: San Andreas, Wolfie from Fortnite, Goku Black from Dragon Ball, and Homer Simpson from The Simpsons standing on railroad tracks.](dependencies/header.webp)
 
 ## ⚠️STOP!⚠️
 
