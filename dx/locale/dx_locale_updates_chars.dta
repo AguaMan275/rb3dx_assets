@@ -80,3 +80,5 @@
 (prefab_kiryu "[Yakuza] Kiryu Kazuma")
 (prefab_wf_excalibur "[Warframe] Excalibur")
 (prefab_fn_fry "[Futurama] Fry")
+(prefab_fn_doom "[Doom] DoomSlayer")
+(prefab_fn_batman "[DC] Batman")
