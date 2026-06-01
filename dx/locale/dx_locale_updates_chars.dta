@@ -79,7 +79,6 @@
 (prefab_isaac "[Dead Space] Isaac")
 (prefab_kiryu "[Yakuza] Kiryu Kazuma")
 (prefab_wf_excalibur "[Warframe] Excalibur")
-(prefab_leon "[RE4] Leon Kennedy")
 (prefab_fn_fry "[Futurama] Fry")
 (prefab_fn_doom "[Doom] Doomguy")
 (prefab_fn_batman "[DC] Batman")
@@ -88,3 +87,4 @@
 (prefab_fn_lars "[FN] Lars")
 (prefab_fn_robert "[FN] Robert")
 (prefab_teulei "‍Teulei")
+(prefab_leon "[RE4] Leon Kennedy")
