@@ -100,3 +100,7 @@
 (prefab_fn_skillet_goggles "[FN] Skillet (Goggles)")
 (prefab_fn_hybrid_green "[FN] Hybrid (Green)")
 (prefab_fn_hybrid_purple "[FN] Hybrid (Purple)")
+(prefab_tadc_gangle "[TADC] Gangle")
+(prefab_tadc_pomni "[TADC] Pomni")
+(prefab_tadc_jax "[TADC] Jax")
+(prefab_tadc_zooble "[TADC] Zooble")
