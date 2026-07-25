@@ -135,3 +135,5 @@
 (prefab_fn_polarpatroller "[FN] Polar Patroller")
 (prefab_solidsnake "[MGS] Solid Snake")
 (prefab_l4d2_coach "[L4D2] Coach")
+(prefab_link "[Zelda:TP] Link")
+(prefab_zelda "[Zelda:TP] Zelda")
