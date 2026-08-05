@@ -140,4 +140,5 @@
 (prefab_link "[Zelda:TP] Link")
 (prefab_zelda "[Zelda:TP] Zelda")
 (prefab_srt_hunter "[Spyro:RT] Hunter")
+(prefab_sonar "[Dispatch] Sonar")
 (prefab_fn_jinx "[League of Legends] Jinx")
